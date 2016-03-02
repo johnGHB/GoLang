@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a2bf9c9-633f-40d1-ad9a-128328fc2120" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gowiki" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gowiki.go" afterPath="$PROJECT_DIR$/gowiki.go" />
     </list>
     <ignored path="gowiki.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -254,7 +249,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456864274812</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1456941103613</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456941103613</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
