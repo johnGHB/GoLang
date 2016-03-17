@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="centos7" persistUploadOnCheckin="false">
+  <component name="PublishConfigData" serverName="acerlinux" persistUploadOnCheckin="false">
     <serverData>
-      <paths name="centos7">
+      <paths name="acerlinux">
         <serverdata>
           <mappings>
             <mapping deploy="/bin" local="$PROJECT_DIR$" web="/" />
