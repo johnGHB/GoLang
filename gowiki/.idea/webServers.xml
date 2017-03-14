@@ -9,6 +9,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e247cf82-f397-48f7-bd01-0a6b4ec8228f" name="MM2014" url="http://localhost:80">
+        <fileTransfer mountedRoot="$PROJECT_DIR$" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </project>
